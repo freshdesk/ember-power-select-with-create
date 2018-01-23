@@ -17,7 +17,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.0.0",
     "ember-cli-htmlbars": "^1.1.1",
-    "ember-power-select": "^1.7.0"
+    "ember-power-select": "git+ssh://git@github.com/freshdesk/ember-power-select#ember_concurrency_lock"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
